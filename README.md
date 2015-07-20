@@ -1,2 +1,2 @@
 # Algorithms
-Contains few Algorithms and DataStructures
+Contains few programs on Algorithms and data structures.
